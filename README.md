@@ -2,7 +2,7 @@
 
 A simple script that runs a reverse timmer, the project was created using HTML and Javascript.
 
-Usage
+# Usage
 
 Clone the repository, downloading the files or with the clone repository command:
 
